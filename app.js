@@ -35,7 +35,7 @@ takePhotoButton.onclick = function(){
     photoDisplay.classList.add("photo-taken");
 }
 
-frontCamermButton.onclick = function(){
+frontCameraButton.onclick = function(){
     //frontcamera = false;
     frontCamera = !frontCamera;
     if(frontCamera){
